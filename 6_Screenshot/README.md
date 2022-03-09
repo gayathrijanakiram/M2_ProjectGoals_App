@@ -1,3 +1,3 @@
 # mini project
 
-# - cab booking system
+# cab booking system
