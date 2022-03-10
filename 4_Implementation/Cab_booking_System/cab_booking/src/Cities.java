@@ -5,7 +5,6 @@ LinkedList<String> list = new LinkedList<>();
 
 public Cities(){
     // constructor
-
 }
 public LinkedList<String> getList()
 {
@@ -16,10 +15,7 @@ public LinkedList<String> getList()
     list.add("KARAMADAI");
     list.add("TEACHERS COLONY");
     list.add("METTUPALAYAM");
-list.add("Velliangadu");
+    list.add("VELLIANGADU");
     return list;
 }
-}
-
-
 }

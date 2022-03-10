@@ -32,4 +32,3 @@ public static String fillTripInfo()
             " Passengers and with these requires "+requires+" on "+date+" is ready";
 }
 }
-
