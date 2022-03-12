@@ -6,15 +6,20 @@
 
 # Find rides
 
-![java screenshot 2](https://user-images.githubusercontent.com/59721986/158027800-809db8c7-f4bc-463d-b97d-678103e913b4.png)
+![1 java](https://user-images.githubusercontent.com/59721986/158028284-f9458ad7-3e71-4d28-80ae-09765300797f.png)
 
 # Offer rides
 
-![java screenshot 3](https://user-images.githubusercontent.com/59721986/158027804-3a71c303-c48b-4fc8-ba83-9da52e4a1fe2.png)
+![2 java](https://user-images.githubusercontent.com/59721986/158028285-989c1c39-e384-459b-98e8-00b21a0e44c8.png)
 
 # About us
 
-![java screenshot 4](https://user-images.githubusercontent.com/59721986/158027809-72b07d14-3293-42c7-91bb-07ebbeb981dc.png)
+![3 java](https://user-images.githubusercontent.com/59721986/158028289-dcc94ce7-71fe-4c0b-8dc5-749f39b7face.png)
+
+# Quit
+
+![0 java](https://user-images.githubusercontent.com/59721986/158028281-bc4d0b95-d2ee-413c-a70b-ea4318f130d7.png)
+
 
 
 
